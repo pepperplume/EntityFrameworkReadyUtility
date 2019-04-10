@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\peppe\\source\\repos\\EntityFrameworkReadyUtility\\EntityFrameworkReadyUtility\\EntityFrameworkReadyUtility.csproj": {}
+    "C:\\Users\\peppe\\Documents\\GitHub\\EntityFrameworkReadyUtility\\EntityFrameworkReadyUtility\\EntityFrameworkReadyUtility.csproj": {}
   },
   "projects": {
-    "C:\\Users\\peppe\\source\\repos\\EntityFrameworkReadyUtility\\EntityFrameworkReadyUtility\\EntityFrameworkReadyUtility.csproj": {
+    "C:\\Users\\peppe\\Documents\\GitHub\\EntityFrameworkReadyUtility\\EntityFrameworkReadyUtility\\EntityFrameworkReadyUtility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\peppe\\source\\repos\\EntityFrameworkReadyUtility\\EntityFrameworkReadyUtility\\EntityFrameworkReadyUtility.csproj",
+        "projectUniqueName": "C:\\Users\\peppe\\Documents\\GitHub\\EntityFrameworkReadyUtility\\EntityFrameworkReadyUtility\\EntityFrameworkReadyUtility.csproj",
         "projectName": "EntityFrameworkReadyUtility",
-        "projectPath": "C:\\Users\\peppe\\source\\repos\\EntityFrameworkReadyUtility\\EntityFrameworkReadyUtility\\EntityFrameworkReadyUtility.csproj",
+        "projectPath": "C:\\Users\\peppe\\Documents\\GitHub\\EntityFrameworkReadyUtility\\EntityFrameworkReadyUtility\\EntityFrameworkReadyUtility.csproj",
         "packagesPath": "C:\\Users\\peppe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\peppe\\source\\repos\\EntityFrameworkReadyUtility\\EntityFrameworkReadyUtility\\obj\\",
+        "outputPath": "C:\\Users\\peppe\\Documents\\GitHub\\EntityFrameworkReadyUtility\\EntityFrameworkReadyUtility\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -41,6 +41,10 @@
       "frameworks": {
         "netcoreapp2.2": {
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
