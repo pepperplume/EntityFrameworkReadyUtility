@@ -4,12 +4,3 @@ C:\Users\peppe\source\repos\EntityFrameworkReadyUtility\EntityFrameworkReadyUtil
 C:\Users\peppe\source\repos\EntityFrameworkReadyUtility\EntityFrameworkReadyUtility\obj\Debug\netcoreapp2.2\EntityFrameworkReadyUtility.csproj.CoreCompileInputs.cache
 C:\Users\peppe\source\repos\EntityFrameworkReadyUtility\EntityFrameworkReadyUtility\obj\Debug\netcoreapp2.2\EntityFrameworkReadyUtility.AssemblyInfoInputs.cache
 C:\Users\peppe\source\repos\EntityFrameworkReadyUtility\EntityFrameworkReadyUtility\obj\Debug\netcoreapp2.2\EntityFrameworkReadyUtility.AssemblyInfo.cs
-C:\Users\peppe\Documents\GitHub\EntityFrameworkReadyUtility\EntityFrameworkReadyUtility\bin\Debug\netcoreapp2.2\EntityFrameworkReadyUtility.deps.json
-C:\Users\peppe\Documents\GitHub\EntityFrameworkReadyUtility\EntityFrameworkReadyUtility\bin\Debug\netcoreapp2.2\EntityFrameworkReadyUtility.dll
-C:\Users\peppe\Documents\GitHub\EntityFrameworkReadyUtility\EntityFrameworkReadyUtility\bin\Debug\netcoreapp2.2\EntityFrameworkReadyUtility.pdb
-C:\Users\peppe\Documents\GitHub\EntityFrameworkReadyUtility\EntityFrameworkReadyUtility\obj\Debug\netcoreapp2.2\EntityFrameworkReadyUtility.csprojAssemblyReference.cache
-C:\Users\peppe\Documents\GitHub\EntityFrameworkReadyUtility\EntityFrameworkReadyUtility\obj\Debug\netcoreapp2.2\EntityFrameworkReadyUtility.csproj.CoreCompileInputs.cache
-C:\Users\peppe\Documents\GitHub\EntityFrameworkReadyUtility\EntityFrameworkReadyUtility\obj\Debug\netcoreapp2.2\EntityFrameworkReadyUtility.AssemblyInfoInputs.cache
-C:\Users\peppe\Documents\GitHub\EntityFrameworkReadyUtility\EntityFrameworkReadyUtility\obj\Debug\netcoreapp2.2\EntityFrameworkReadyUtility.AssemblyInfo.cs
-C:\Users\peppe\Documents\GitHub\EntityFrameworkReadyUtility\EntityFrameworkReadyUtility\obj\Debug\netcoreapp2.2\EntityFrameworkReadyUtility.dll
-C:\Users\peppe\Documents\GitHub\EntityFrameworkReadyUtility\EntityFrameworkReadyUtility\obj\Debug\netcoreapp2.2\EntityFrameworkReadyUtility.pdb

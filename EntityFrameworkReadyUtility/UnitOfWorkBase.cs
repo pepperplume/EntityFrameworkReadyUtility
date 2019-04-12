@@ -5,11 +5,11 @@ using System.Text;
 
 namespace EntityFrameworkReadyUtility
 {
-    public class UnitOfWork<TDbContext> : IUnitOfWorkBase where TDbContext : DbContext
+    public class UnitOfWorkBase<TDbContext> : IUnitOfWorkBase where TDbContext : DbContext
     {
         protected TDbContext _Context { get; private set; }
 
-        public UnitOfWork(TDbContext context)
+        public UnitOfWorkBase(TDbContext context)
         {
             _Context = context;
         }
